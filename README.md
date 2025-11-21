@@ -1,5 +1,5 @@
 # Stake Mine's Clone
-A low level clone of Stake's Mines gambling game. Originally created in 2024 for my Senior year CS class.
+A low level clone of Stake's Mines gambling game. Originally created in 2024 for my high school Senior year CS class.
 
 # Tech Stack
 Written in Java using Processing 4 (necessary to run)
